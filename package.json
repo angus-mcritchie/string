@@ -1,0 +1,23 @@
+{
+    "name": "@gooby/string",
+    "version": "1.0.0",
+    "description": "Converts capitalization of strings.",
+    "main": "index.js",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/angus-mcritchie/string"
+    },
+    "keywords": [
+        "string",
+        "case",
+        "snake",
+        "camel"
+    ],
+    "author": "Angus McRitchie",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/angus-mcritchie/string"
+    },
+    "homepage": "https://github.com/angus-mcritchie/string"
+}
